@@ -1,0 +1,25 @@
+M: 2018-01-29 18:07:56.095 Opening YSF network connection
+M: 2018-01-29 18:07:56.128 DMR Network Parameters
+M: 2018-01-29 18:07:56.128     ID: 1234567
+M: 2018-01-29 18:07:56.129     Default SrcID: 1234567
+M: 2018-01-29 18:07:56.130     Startup DstID:  9990
+M: 2018-01-29 18:07:56.130     Address: 44.131.4.1
+M: 2018-01-29 18:07:56.130     Port: 62031
+M: 2018-01-29 18:07:56.130     Local: random
+M: 2018-01-29 18:07:56.130     Jitter: 500ms
+M: 2018-01-29 18:07:56.130 Info Parameters
+M: 2018-01-29 18:07:56.130     Callsign: G9BF
+M: 2018-01-29 18:07:56.130     RX Frequency: 435000000Hz
+M: 2018-01-29 18:07:56.131     TX Frequency: 435000000Hz
+M: 2018-01-29 18:07:56.131     Power: 1W
+M: 2018-01-29 18:07:56.131     Latitude: 0.000000deg N
+M: 2018-01-29 18:07:56.132     Longitude: 0.000000deg E
+M: 2018-01-29 18:07:56.132     Height: 0m
+M: 2018-01-29 18:07:56.132     Location: "Nowhere"
+M: 2018-01-29 18:07:56.132     Description: "Multi-Mode Repeater"
+M: 2018-01-29 18:07:56.132     URL: "www.google.co.uk"
+M: 2018-01-29 18:07:56.132 DMR, Opening DMR Network
+I: 2018-01-29 18:07:56.790 Loaded 77217 Ids to the callsign lookup table
+M: 2018-01-29 18:07:56.790 Starting YSF2DMR-20180128
+I: 2018-01-29 18:07:56.791 Started the DMR Id lookup reload thread
+E: 2018-01-29 18:08:02.459 Error returned from recvfrom, err: 10054
